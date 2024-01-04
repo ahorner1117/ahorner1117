@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+##  My name is Anthony Horner, I'm a software engineer located in South Florida with over 5 years of experience. 
+
+I found my passion for coding in my early years of high school, where I had the opportunity to study intro to robotics where I studied Python and programming with Arduino's. Immediately after joining this class, I knew my career path. This led me to study Computer Science at Florida Atlantic University in which I graduated in 2020. 
+
+During my professional experience, I have worked mostly in web development with a vast spread of technologies ranging from the IOT industry to E-commerce stores. 
 
 <!--
 **ahorner1117/ahorner1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
