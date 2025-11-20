@@ -11,6 +11,7 @@ During my professional experience, I have worked mostly in web development with 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Next.Js" src="https://img.shields.io/badge/-Next.js-2688e3?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-96BE28?style=flat-square&logo=shopify&logoColor=white" />
@@ -27,32 +28,36 @@ During my professional experience, I have worked mostly in web development with 
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
+
 </p>
 
 <h3>Personal Projects</h3>
 
-**Luxury Peer-to-Peer Car Rental Platform**  
-[macroexotics.com](https://macroexotics.com/)  
-A full-featured car rental platform built with Svelte, SvelteKit, Tailwind CSS, Firebase, CDN, and hosting with Vercel. This application connects vehicle owners with renters, featuring a seamless booking experience and robust functionality.
+### [Macro Exotics](https://macroexotics.com/)  
 
-**Subscription Sports Analytics Software**
-A comprehensive analytics platform that allows users to subscribe and analyze sports trends with advanced insights. The application includes custom authentication, VPN blocking, and IP blacklisting to[...]
+<img src="https://www.macroexotics.com/_app/immutable/assets/macro-exotics-dark-logo.BKbJ8eoC.png" alt="Macroexotics Logo" width="160" />  
 
-**East Continental Gems E-Commerce Revamp**  
-[EastContinentalGems.com](https://eastcontinentalgems.com/)  
-Inherited a failing e-commerce store with a 0.02% conversion rate and was tasked with updating and redesigning the site to boost sales. Implemented SEO improvements, a full site redesign, and analytics tracking, leading to an increase in sales of over 900% within 3 months.
+For Macro Exotics, I built a full-featured luxury peer-to-peer car rental platform from scratch. I used Svelte, SvelteKit, Tailwind CSS, Firebase, CDN, and Vercel hosting to connect vehicle owners with renters and provide a seamless booking and payment experience.
 
-<!--
-**ahorner1117/ahorner1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### [Subscription Sports Analytics Software](#)
+
+I created a comprehensive analytics platform that enables users to subscribe and analyze sports trends with advanced insights. I implemented custom authentication, VPN blocking, and IP blacklisting to ensure secure and reliable access for subscribers.
+
+---
+
+### [East Continental Gems](https://eastcontinentalgems.com/)  
+
+<img src="https://eastcontinentalgems.com/cdn/shop/files/Group_8.svg?v=1730335600&width=200" alt="East Continental Gems Logo" width="160" />  
+
+For East Continental Gems—the only company certified to sell authentic gemstones that are certified and authenticated by Marvel—I inherited a struggling e-commerce site with a conversion rate of just 0.02%. I redesigned the entire site, implemented SEO improvements, and integrated analytics tools, resulting in a significant increase in sales and engagement.
+
+---
+
+### [Paw In One](https://paw-in-one.com/) (In Development)  
+
+<img src="https://paw-in-one.com/cdn/shop/files/IMG_7980.jpg?height=60&v=1760363003" alt="Paw In One Logo" width="80" />  
+
+For Paw In One, I am currently developing a custom Shopify theme and a bespoke Shopify app that allows users to add and manage pets and sign up for pet subscription services. The app was built on Node.js and is hosted on Vercel. The website is in development and will launch soon.
