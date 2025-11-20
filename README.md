@@ -11,7 +11,6 @@ During my professional experience, I have worked mostly in web development with 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Next.Js" src="https://img.shields.io/badge/-Next.js-2688e3?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-96BE28?style=flat-square&logo=shopify&logoColor=white" />
@@ -26,9 +25,16 @@ During my professional experience, I have worked mostly in web development with 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-
-
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
+  <img alt="MCP Servers" src="https://img.shields.io/badge/-MCP_Servers-232E37?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiByeD0iNCIgZmlsbD0iIzIzMmUzNyIvPjwvc3ZnPg==" />
+  <img alt="Google Analytics" src="https://img.shields.io/badge/-Google_Analytics-FFC107?style=flat-square&logo=google-analytics&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 <h3>Personal Projects</h3>
@@ -37,7 +43,8 @@ During my professional experience, I have worked mostly in web development with 
 
 <img src="https://www.macroexotics.com/_app/immutable/assets/macro-exotics-dark-logo.BKbJ8eoC.png" alt="Macroexotics Logo" width="160" />  
 
-For Macro Exotics, I built a full-featured luxury peer-to-peer car rental platform from scratch. I used Svelte, SvelteKit, Tailwind CSS, Firebase, CDN, and Vercel hosting to connect vehicle owners with renters and provide a seamless booking and payment experience.
+
+Built a full-stack peer-to-peer vehicle rental platform (website and iOS web app) using SvelteKit, Svelte 5, TypeScript, Firebase, and Vercel. The platform enables users to host and rent exotic cars and yachts with integrated driver background checks, AI-powered image analysis and ID fraud detection, insurance coverage management, and role-based access control. Implemented AI-powered vehicle description generation, Google Places API for location services, real-time vehicle tracking, Stripe payment processing, and dedicated insurance portals with claim support. Developed separate CRM and Admin portals with multi-tier dashboards for super admin system oversight, admin operations, and user-level access restrictions.
 
 ---
 
@@ -60,3 +67,16 @@ For East Continental Gems—the only company certified to sell authentic gemston
 <img src="https://paw-in-one.com/cdn/shop/files/IMG_7980.jpg?height=60&v=1760363003" alt="Paw In One Logo" width="80" />  
 
 For Paw In One, I am currently developing a custom Shopify theme and a bespoke Shopify app that allows users to add and manage pets and sign up for pet subscription services. The app was built on Node.js and is hosted on Vercel. The website is in development and will launch soon.
+
+<!--
+**ahorner1117/ahorner1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
