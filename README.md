@@ -1,7 +1,7 @@
 # Hi there 👋
 ##  My name is Anthony Horner, I'm a software engineer currently living in South Florida. 
 <!--
-I found my passion for coding in my early years of high school, where I had the opportunity to study intro to robotics where I studied Python and programming with Arduino's. Immediately after joining this class, I knew my career path. This led me to study Computer Science at Florida Atlantic University in which I graduated in 2020. 
+I found my passion for coding in my early years of high school, where I had the opportunity to study intro to robotics where I studied Python and programming with Arduino's. Immediately after joining [...]
 During my professional experience, I have worked mostly in web development with a vast spread of technologies ranging from the IOT industry to E-commerce stores.  -->
 
 <h3>Tools I code with</h3>
@@ -17,7 +17,7 @@ During my professional experience, I have worked mostly in web development with 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -33,11 +33,16 @@ During my professional experience, I have worked mostly in web development with 
 
 <h3>Personal Projects</h3>
 
-**Luxury Peer-to-Peer Car Rental Platform**
-A full-featured car rental platform built with Svelte, SvelteKit, Tailwind CSS, Firebase, CDN, and hosting with Vercel. This application connects vehicle owners with renters, featuring a seamless booking experience with real-time availability management and secure payment processing through Stripe integration
+**Luxury Peer-to-Peer Car Rental Platform**  
+[macroexotics.com](https://macroexotics.com/)  
+A full-featured car rental platform built with Svelte, SvelteKit, Tailwind CSS, Firebase, CDN, and hosting with Vercel. This application connects vehicle owners with renters, featuring a seamless booking experience and robust functionality.
 
 **Subscription Sports Analytics Software**
-A comprehensive analytics platform that allows users to subscribe and analyze sports trends with advanced insights. The application includes custom authentication, VPN blocking, and IP blacklisting to ensure secure access and protect against unauthorized usage. Users can track performance metrics, identify patterns, and make data-driven decisions with custom dashboards and reporting features.
+A comprehensive analytics platform that allows users to subscribe and analyze sports trends with advanced insights. The application includes custom authentication, VPN blocking, and IP blacklisting to[...]
+
+**East Continental Gems E-Commerce Revamp**  
+[EastContinentalGems.com](https://eastcontinentalgems.com/)  
+Inherited a failing e-commerce store with a 0.02% conversion rate and was tasked with updating and redesigning the site to boost sales. Implemented SEO improvements, a full site redesign, and analytics tracking, leading to an increase in sales of over 900% within 3 months.
 
 <!--
 **ahorner1117/ahorner1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
