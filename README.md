@@ -58,7 +58,7 @@ I created a comprehensive analytics platform that enables users to subscribe and
 
 <img src="https://eastcontinentalgems.com/cdn/shop/files/Group_8.svg?v=1730335600&width=200" alt="East Continental Gems Logo" width="160" />  
 
-For East Continental Gems—the only company certified to sell authentic gemstones that are certified and authenticated by Marvel—I inherited a struggling e-commerce site with a conversion rate of just 0.02%. I redesigned the entire site, implemented SEO improvements, and integrated analytics tools, resulting in a significant increase in sales and engagement.
+For East Continental Gems—the only company certified to sell authentic gemstones that are certified and authenticated by Marvel—I inherited a struggling e-commerce site with a conversion rate of just 0.02%. I redesigned the entire site, implemented SEO improvements, and integrated analytics tools, resulting in over 900% increase in conversion rates.
 
 ---
 
