@@ -31,7 +31,7 @@ During my professional experience, I have worked mostly in web development with 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3>Featured Projects</h3>
+<h3>Personal Projects</h3>
 
 **Luxury Peer-to-Peer Car Rental Platform**
 A full-featured car rental platform built with Svelte, SvelteKit, Tailwind CSS, Firebase, CDN, and hosting with Vercel. This application connects vehicle owners with renters, featuring a seamless booking experience with real-time availability management and secure payment processing through Stripe integration
