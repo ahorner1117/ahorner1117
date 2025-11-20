@@ -37,6 +37,54 @@ During my professional experience, I have worked mostly in web development with 
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
+<h3>AI-Assisted Development Workflow</h3>
+
+I use AI as a core development tool while maintaining full control over architecture and code quality. My workflow combines strategic AI assistance with hands-on development expertise.
+
+**Development Environment & Tools**
+- Use Cursor AI as my primary IDE with integrated AI code completion, refactoring, and context-aware suggestions
+- Apply custom code rules in Cursor to enforce consistent formatting, naming conventions, and project-specific coding standards
+- Leverage GitHub Copilot for CI/CD workflows and automated testing integration
+- Employ Claude AI as my main assistant for planning, problem-solving, and complex implementation guidance
+- Actively discover emerging LLMs by monitoring Hugging Face, research papers, and developer communities for specialized models before they become mainstream
+
+**Advanced Prompting & MCP Integration**
+- Apply advanced prompt engineering frameworks (RACE, CARE, TAG) to get precise, high-quality outputs from LLMs
+- Use Microsoft Copilot prompt generator to optimize AI interactions and extract maximum value from each query
+- Connect Figma MCP server to access design elements directly in development environment for seamless design-to-code workflow
+- Use Stripe MCP tools for embedding payment components and initializing Stripe setup with proper configuration
+- Leverage language MCP tools for proper configuration, routing validation, and framework-specific code assistance
+- Integrate specialized MCP servers from Hugging Face and Context7 for enhanced documentation access and development capabilities
+
+**Claude Skills & Custom Workflows**
+- Use MCP Builder skill for creating and optimizing Model Context Protocol servers
+- Employ Web Artifacts Builder skill for creating complex multi-component web applications
+- Utilize Canvas Design skill for generating visual assets and design elements programmatically
+
+**Strategic AI Usage**
+- Conduct detailed planning sessions with AI to develop comprehensive, step-by-step implementation strategies
+- Use AI to identify edge cases, security vulnerabilities, and scenarios that traditional development might overlook
+- Generate boilerplate code, API integrations, and complex algorithms with AI, then refine and optimize based on project requirements
+- Leverage AI for code reviews to catch bugs and architectural issues before they reach production
+
+**Human-Led Development**
+- Write and architect all core application logic independently—AI accelerates implementation, not decision-making
+- Critically review all AI-generated code to ensure it meets production standards and follows best practices
+- Maintain deep technical knowledge to validate AI suggestions and catch potential issues
+- Use AI as an intelligent pair programmer, not a replacement for engineering judgment
+
+**Business Impact**
+- **Development Speed**: Reduce feature development time through AI-assisted coding while maintaining code quality
+- **Cost Efficiency**: Execute projects solo that traditionally require full teams by leveraging free Hugging Face models for image generation, object detection, and content moderation
+- **Storage Optimization**: Use AI-powered image compression and format conversion (WebP/AVIF) to reduce storage costs and improve performance
+- **Rapid Prototyping**: Build and validate MVPs in days instead of weeks with AI-generated descriptions, automated testing, and intelligent validation
+- **Proven Results**: Transformed East Continental Gems from 0.02% conversion rate to over 900% increase through AI-assisted redesign, SEO improvements, and analytics integration
+- **Competitive Edge**: Implement cutting-edge AI capabilities months before they become industry standard by discovering specialized LLMs early
+
+This approach lets me move fast without sacrificing quality—combining AI speed with human expertise to deliver professional solutions efficiently.
+
+---
+
 <h3>Personal Projects</h3>
 
 ### [Macro Exotics](https://macroexotics.com/)  
@@ -68,15 +116,3 @@ For East Continental Gems—the only company certified to sell authentic gemston
 
 For Paw In One, I am currently developing a custom Shopify theme and a bespoke Shopify app that allows users to add and manage pets and sign up for pet subscription services. The app was built on Node.js and is hosted on Vercel. The website is in development and will launch soon.
 
-<!--
-**ahorner1117/ahorner1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
