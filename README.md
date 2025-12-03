@@ -8,16 +8,20 @@ During my professional experience, I have worked mostly in web development with 
 <span>
   <div>
     <h4>Main Technologies</h4>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Next.Js" src="https://img.shields.io/badge/-Next.js-2688e3?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Shopify Liquid" src="https://img.shields.io/badge/-Shopify-96BE28?style=flat-square&logo=shopify&logoColor=white" />
+      <img alt="Next.Js" src="https://img.shields.io/badge/-Next.js-2688e3?style=flat-square&logo=next.js&logoColor=white" />
+      <img alt="React" src="https://img.shields.io/badge/-React-087ea4?style=flat-square&logo=react&logoColor=white" />
+      <img alt="Vanilla Javascript" src="https://img.shields.io/badge/-Javascript-2688e3?style=flat-square&logo=Javascript&logoColor=white" />
+      <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF9800?style=flat-square&logo=svelte&logoColor=white" />
+      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-417e38?style=flat-square&logo=Node.js&logoColor=white" />
+      <img alt="Express.Js" src="https://img.shields.io/badge/-Express.js-2688e3?style=flat-square&logo=Express&logoColor=white" />
 
   
+  </div>
+  <div>
+      <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Shopify Liquid" src="https://img.shields.io/badge/-Shopify-96BE28?style=flat-square&logo=shopify&logoColor=white" />
   </div>
   <!-- Styles -->
   <div>
